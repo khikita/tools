@@ -28,3 +28,5 @@ def create_model(modelName):
         "fieldset_id" : 2 
     }
 ```
+
+## 解説ブログ
